@@ -1,1 +1,1 @@
-This repo has all the resources for learning machine learning from scratch
+This repo has resources for learning machine learning from scratch
